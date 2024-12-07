@@ -24,7 +24,7 @@
   - 按优先级逐项实现功能
   - 部署上线（内部或外部）
 - 输出：可对外展示的完整产品
-- AI工具：Claude；Cursor；Replit
+- AI工具：Claude；Cursor
 
 ### 迭代优化
 
@@ -32,11 +32,11 @@
 
 ## AI工具Prompts
 
-| 任务            | 工具   | Prompt                         |
-| --------------- | ------ | ------------------------------ |
-| 想法->计划      | Claude | [01_blueprint_prompt-claude](./01_blueprint_prompt-claude.md) |
-| 计划->原型图/UI | v0.dev | [02_BP2UI_Prompt_v0](./02_BP2UI_Prompt_v0.md)         |
-| 实现功能        | Claude | [03_BuildTogether_claude](./03_BuildTogether_claude.md)    |
-| 实现功能        | Cursor | [04_Cursor_rules](./04_Cursor_rules.md)            |
-| 部署上线        | Replit | /                              |
+| 任务            | 工具   | Prompt                                                      |
+| --------------- | ------ | ----------------------------------------------------------- |
+| 想法->计划      | Claude | [01_blueprint_prompt-claude](./01_Ideas2Instructions_cn.md) |
+| 计划->原型图/UI | v0.dev | [02_BP2UI_Prompt_v0](./02_BP2UI_Prompt_v0.md)               |
+| 实现功能        | Claude | [03_BuildTogether_claude](./03_BuildTogether_claude.md)     |
+| 实现功能        | Cursor | /                                                           |
+| 部署上线        | Replit | /                                                           |
 
