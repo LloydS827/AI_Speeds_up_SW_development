@@ -36,7 +36,5 @@
 | --------------- | ------ | ----------------------------------------------------------- |
 | 想法->计划      | Claude | [01_blueprint_prompt-claude](./01_Ideas2Instructions_cn.md) |
 | 计划->原型图/UI | v0.dev | [02_BP2UI_Prompt_v0](./02_BP2UI_Prompt_v0.md)               |
-| 实现功能        | Claude | [03_BuildTogether_claude](./03_BuildTogether_claude.md)     |
-| 实现功能        | Cursor | /                                                           |
-| 部署上线        | Replit | /                                                           |
+| 开发辅助        | Claude | [03_BuildTogether_claude](./03_BuildTogether_cn.md)         |
 
